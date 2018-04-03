@@ -1,1 +1,0 @@
-cat,num,num,cat,cat,cat,cat,num,cat,cat,num,cat,cat,num,num,cat
